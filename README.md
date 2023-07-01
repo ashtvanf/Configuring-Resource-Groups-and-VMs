@@ -17,11 +17,12 @@ Following the steps below, I will outline how you create a resource group from t
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/ec6b48b0-26d4-46ec-93cd-939c746ba0c8"/>
 </p>
 <p>
-At the top, enter Resource Groups into the search bar and search.
-<h2>Assigment and Communication</h2>
-Our Admin will sign in and assign this ticket it's priority and SLA, as well as assign it to an agent and department. Examples are shown below.
+At the top, enter Resource Groups into the search bar and select Resource groups.
 </p>
 <p>
-<img src="https://github.com/ashtvanf/OsTicket-Ticket-Lifecycle-Examples/assets/138221709/5c84fde9-9677-4c28-9d98-1cbebf776029"/>
+On the next screen you will select "create Resource Group" 
+</p>
+<p>
+<img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/4954cb90-242a-4461-a2a4-9bed59b18dcf"/>
 </p>
 <p>
