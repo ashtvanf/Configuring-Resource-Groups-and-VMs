@@ -38,7 +38,7 @@ Lastly we will wait for validation from Azure. Once we are allowed to, we may re
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/73b21371-99ad-447c-90b5-f54ffc86481a"/>
 </p>
 <p>
-<h2>Creating Virtual Machines</h2>\
+<h2>Creating Virtual Machines</h2>
 In the steps outlined below I will go over how to create a Virtual Machine and create a VNS in the same process.
 </p>
 <p>
@@ -69,4 +69,6 @@ Next we will select our operating system. As above you can see I selected Window
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/1ca985b1-eb7d-4cdd-897d-5ed668729618"/>
 </p>
 <p>
-As you scroll down you should see a page like show above. It is necessary to set up a Username and Password. (It's very important to remember or write these down.)
+As you scroll down you should see a page similar to the one shown above. It is necessary to set up a Username and Password. (It's very important to remember or write these down.)
+</p>
+<p>
