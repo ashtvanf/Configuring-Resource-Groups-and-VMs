@@ -32,3 +32,7 @@ Next select your Azure subscription, Name your Resource Group, and Select the re
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/9e5274aa-d9f2-4d85-879c-11ef006d9863"/>
 </p>
 <p>
+Lastly we will wait for validation from Azure. Once we are allowed to, we may review and create our Resource Group.
+<img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/73b21371-99ad-447c-90b5-f54ffc86481a"/>
+</p>
+<p>
