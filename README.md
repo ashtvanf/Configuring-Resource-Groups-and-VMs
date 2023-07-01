@@ -81,4 +81,13 @@ In our last steps, we will create a network for our Virtual Machine to operate f
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/5cb32862-e057-4a41-a65f-7a4fff0aee33"/>
 </p>
 <p>
-After validation we should be able to create our Virtual Machine.
+After validation we should be able to create our Virtual Machine. After selecting Create, we will see a screen with various assets being "deployed."
+</p>
+<p>
+<h2>Finished Configuring Resource Group and Virtual Machine.</h2>
+</p>
+<p>
+<img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/bf88ce6e-7147-4dd4-9122-e500c73dd03a"/>
+</p>
+<p>
+As shown above our Virtual Machine has been successfully completed.
