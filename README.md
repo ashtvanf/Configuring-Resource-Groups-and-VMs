@@ -26,3 +26,7 @@ On the next screen you will select "create Resource Group"
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/4954cb90-242a-4461-a2a4-9bed59b18dcf"/>
 </p>
 <p>
+Next select your Azure subscription, Name your Resource Group, and Select the region you want your Resource Group to be designated to.
+<img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/9e5274aa-d9f2-4d85-879c-11ef006d9863"/>
+</p>
+<p>
