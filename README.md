@@ -20,7 +20,7 @@ Following the steps below, I will outline how you create a resource group from t
 At the top, enter Resource Groups into the search bar and select Resource groups.
 </p>
 <p>
-On the next screen you will select "create Resource Group"
+On the next screen you will select "Create Resource Group"
 </p>
 <p>
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/4954cb90-242a-4461-a2a4-9bed59b18dcf"/>
@@ -57,7 +57,7 @@ Next you will select Create -> Azure Virtual Machine.
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/10d76b38-3764-4120-be94-9143a165c088"/>
 </p>
 <p>
-On this next page you must select your Resource Group, name your Virtual Machine, and region.
+On this next page you must select your Resource Group, name your Virtual Machine, and Region.
 </p>
 <p>
 <img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/27639702-20b1-44c6-9169-bdf02a331426"/>
@@ -72,3 +72,13 @@ Next we will select our operating system. As above you can see I selected Window
 As you scroll down you should see a page similar to the one shown above. It is necessary to set up a Username and Password. (It's very important to remember or write these down.)
 </p>
 <p>
+<img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/32b345b3-eb70-4b9e-8dcd-12b238b665da"/>
+</p>
+<p>
+In our last steps, we will create a network for our Virtual Machine to operate from.
+</p>
+<p>
+<img src="https://github.com/ashtvanf/Configuring-Resource-Groups-and-VMs/assets/138221709/5cb32862-e057-4a41-a65f-7a4fff0aee33"/>
+</p>
+<p>
+After validation we should be able to create our Virtual Machine.
